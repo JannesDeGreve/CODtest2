@@ -1,0 +1,11 @@
+{
+  "name": "gittestrepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JannesDeGreveStudent/CODtest2.git",
+  "author": "Jannes De Greve <jannes.de.greve@student.howest.be>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.25.1"
+  }
+}
